@@ -1,4 +1,4 @@
-=== Contact Form 7 confirm email field ===
+=== Contact Form 7 confirm email feild ===
 Contributors: Vallabh Vyas
 Donate link: http://omkarsoft.com/
 Tags: contact form 7, form, confirm email, cf7 confirm email feild, double check email plugin
