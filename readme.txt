@@ -21,12 +21,19 @@ confirm email field for Contact Form 7 add the double check email field to your 
 
 If you want to do this in your form, you only have to add the "confirm_email" field into the CF7 form and enter the email field name you want to check. The validation is done by the CF7 Ajax-powered style: when submitting form CF7 will do the double email check, if not match returns error and ask to users to verify the email addresses.
 
+== 1.1 ==
+The version support Contact form 7 4.1.2 and above
+
+== 1.0 ==
+The version support Contact form 7 4.1.1 and below version
+
+
 == Installation == 1. Upload the entire contact-form-7-confirm-email folder to the /wp-content/plugins/ directory. 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 The Contact Form 7 plugin must be installed and activated for the Contact Form 7 Confirm Email to work.
 
 == Frequently Asked Questions ==
-1. this is my first plugin
+
 
 == Screenshots ==
 
@@ -35,10 +42,13 @@ The Contact Form 7 plugin must be installed and activated for the Contact Form 7
 2
 
 == Changelog ==
-1.0.0 - 20/04/2015
+1.1 - 16/06/2015
 
 == Upgrade Notice == 
-1.0.0 =
-1.0.0 is a major update so it is important that you make backups
 
-== Refrence == Old plugin which is outdated now. below is the link link:https://wordpress.org/plugins/checkmail-validation-for-contact-form-7/ Thanks Paolo Rossi (Ipalo) 
+== 1.1 ==
+The version support Contact form 7 4.1.2 and above
+
+== 1.0 ==
+The version support Contact form 7 4.1.1 and below version
+
