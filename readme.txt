@@ -49,7 +49,7 @@ The version support Contact form 7 4.1.1 and below version
 
 
 == Screenshots ==
-
+http://www.omkarsoft.com/blog/wp-content/uploads/2015/05/Contact-Form-7-confirm-email-field.png
 
 1. The slick WooCommerce settings panel.
 
