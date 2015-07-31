@@ -31,8 +31,7 @@ The Contact Form 7 plugin must be installed and activated for the Contact Form 7
 == Screenshots ==
 
 
-1. The slick WooCommerce settings panel.
-2
+1.Confirm Email does not match validation. 
 
 == Changelog ==
 1.0.0 - 20/04/2015
