@@ -3,7 +3,7 @@ Contributors: Vallabh Vyas
 Donate link: http://omkarsoft.com/
 Tags: contact form 7, form, confirm email, cf7 confirm email field, double check email plugin
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2.3
 Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
