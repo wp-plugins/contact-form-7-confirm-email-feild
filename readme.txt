@@ -1,5 +1,5 @@
 === Contact Form 7 Confirm Email Field ===
-Contributors: Vallabh Vyas
+Contributors: vallabh85
 Plugin Name: Contact Form 7 Confirm Email Field
 Plugin URI: http://www.omkarsoft.com/
 Tags: contact form 7, form, confirm email, cf7 confirm email field, double check email plugin
